@@ -17,6 +17,14 @@ This is the React frontend for the OAuth 2.0 application, providing the user int
 
    ```bash
    git clone https://github.com/yourusername/react-frontend.git
+2. Navigate to the project directory:
+
+   ```bash
+   cd my-react-app
+    3.Install dependencies:
+
+   ```bash
+  npm install
 
 
 
